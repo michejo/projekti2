@@ -1,0 +1,1 @@
+Projekti JavaScript kurssille. Perus AJAX:n avulla haettua dataa ja siitä tablen tekoa. Vaihtaa nappulan mukaa aluetta/kaupunkia.

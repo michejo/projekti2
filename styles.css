@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d2d4d6;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.alku {
+    background-color: #6a6e73;
+    text-align: center;
+    padding: 10px;
+}
+
+
+td {
+    padding: 10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #a2a5a9;
+}
+
+#pohja {
+    border: solid;
+}
+
+tr {
+    border: solid;
+}
+
+td {
+    border:solid;
+}
